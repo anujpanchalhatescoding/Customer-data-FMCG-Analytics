@@ -1,5 +1,5 @@
 
-Introduction
+###Introduction
 
 
 This project is about customer analytics in Fast-Moving-Consumer-Goods (FMCG) Industry. The project is consisted of Customer Analytics and Purchased Analytics. It is motivated by Customer Analytics Program in Udemy.
